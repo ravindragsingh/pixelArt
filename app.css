@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background: #3720db
+     background: linear-gradient(black, blue);
 }
 
 h1 {
@@ -9,6 +9,12 @@ font-family: 'Press Start 2P';
     margin: 0.2em;
     color: #ffffff;
 }
+#line {
+    font-size: 15px;
+     margin: 0.2em;
+    color: #ffffff;
+}
+
 
 h2 {
     margin: 1em 0 0.25em;
